@@ -4,11 +4,11 @@ body {
 }
 
 .container {
-display: flex;
-justify-content: center;
-align-items: center;
-height: 100vh;
-background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: grey;
 }
 
 
